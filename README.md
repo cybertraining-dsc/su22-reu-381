@@ -4,3 +4,7 @@
 name: Alison Lu
 username: al07734
 ```
+
+- [ ] graphics for bokeh
+- [ ] graphcs for df/pandas
+  - [ ] cleanup
