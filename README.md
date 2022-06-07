@@ -7,4 +7,4 @@ username: al07734
 
 - [ ] graphics for bokeh
 - [ ] graphcs for df/pandas
-  - [x] cleanup
+- [x] c4gc_students.md with communications to the C4GC students
